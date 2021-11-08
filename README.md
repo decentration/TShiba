@@ -1,12 +1,17 @@
-# Substrate Node Template
 
-[![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://docs.substrate.io/playground/) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
 
-A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
+<a href="url"><img src="https://user-images.githubusercontent.com/45230082/140763939-2435f9b8-e2c2-45d1-8d4f-f3d32b75d320.png" align="center" float="center" height="348" width="348" ></a>
 
-## Getting Started
+# Terra Shiba Node
 
-Follow the steps below to get started with the Node Template, or get it up and running right from
+## Intro
+
+This is an experiment by the Terra Shiba to create a smart contract (EVM) blockchain. The chain will have sophisticated governance, that allows for on-chain voting for seamless upgrades. It will also have a treasury that the community can vote on to fund. The aim is for TShiba to be interoperable with various chains. 
+
+
+## Getting Started 
+
+Follow the steps below to get started with the Terra Shiba Node Template, or get it up and running right from
 your browser in just a few clicks using
 the [Substrate Playground](https://docs.substrate.io/playground/) :hammer_and_wrench:
 
