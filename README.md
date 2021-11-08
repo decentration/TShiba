@@ -6,7 +6,7 @@
 
 ## Intro
 
-This is an experiment by the Terra Shiba to create a smart contract (EVM) blockchain. The chain will have sophisticated governance, that allows for on-chain voting for seamless upgrades. It will also have a treasury that the community can vote on to fund. The aim is for TShiba to be interoperable with various chains. 
+This is an experiment by the Terra Shiba community to create a smart contract (EVM) blockchain. The chain will have sophisticated governance, that allows for on-chain voting for seamless upgrades. It will also have a treasury that the community can vote on to fund treasury proposals. The aim is for TShiba to be interoperable with many other networks, including Polkadot, Kusama, Ethereum, IBC, XBC and Edgeware. 
 
 
 ## Getting Started 
